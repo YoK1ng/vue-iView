@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-> dome https://yok1ng.github.io/vue-iView/dist/index.html#/
+> demo https://yok1ng.github.io/vue-iView/dist/index.html#/
 
 ## Build Setup
 
